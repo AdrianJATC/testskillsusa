@@ -262,9 +262,9 @@ body {
 	z-index: 0;
 	background: url(../images/site-img15.jpg) repeat scroll 50% 0 rgba(0, 0, 0, 0);
 }
-.col-mdl-2.style-one {
+/* .col-mdl-2.style-one {
 	margin-left: 55%;
-}
+} */
 .section-lg .col-mdl-2.style-one {
 	margin-right: 0;
 	padding: 100px 0 60px 0;
