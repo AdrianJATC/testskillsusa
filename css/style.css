@@ -784,6 +784,10 @@ ul.plan-list li {
 	color: #FFF;
 }
 /* =========== Carousel ============= */
+.carousel-inner.font-white.col-testimonials {
+    display: flex;
+    justify-content: center;
+}
 .carousel-indicators {
 	bottom: -15px;
 	left: 0;
