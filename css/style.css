@@ -192,11 +192,25 @@ body {
 .section-lg .image-container.col-mdl-1 {
 	margin-left: 50%;
 }
+
+
 .section-lg .col-mdl-2 {
 	margin-left: 0;
 	padding: 100px 0 100px 0;
+}
+
+.section-lg .col-m1-2 h3{
+	text-align: center;
+}
+
+.section-lg .col-m1-2 h4{
 	text-align: left;
 }
+
+.section-lg .col-m1-2 p{
+	text-align: left;
+}
+
 .col-mdl-1 {
 	width: 50%;
 }
@@ -247,6 +261,10 @@ body {
 	width: 100%;
 	text-align: left;
 }
+
+
+
+
 /*style one*/
 .section-lg .image-container.col-mdl-1.style-one {
 	margin-left: 0%;
@@ -265,12 +283,17 @@ body {
 /* .col-mdl-2.style-one {
 	margin-left: 55%;
 } */
+
+
 .section-lg .col-mdl-2.style-one {
 	margin-right: 0;
 	padding: 100px 0 60px 0;
 	text-align: left;
 	overflow: hidden;
 }
+
+
+
 /* =========== Icon ============= */
 .col-feature-box {
 	text-align: center;
